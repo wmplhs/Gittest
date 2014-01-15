@@ -1,9 +1,11 @@
 자기소개 
 -------------------
-이름 :
+이름 : 전용남
 
-팀 :
+직급 : 대리
 
-Github ID :
+팀 : 모바일팀
 
-E- mail :
+Github ID : dbcognam
+
+E- mail : dbcognam@wemakeprice.com
